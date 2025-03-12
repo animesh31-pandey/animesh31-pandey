@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Animesh Pandey and I'm a B.TECH 2 year student, from rajasthan technical university kota.</p>
+<p align="left">My name is  Animesh Pandey and I'm a B.TECH 2 year student, from rajasthan technical university kota. Attendes 2X hackathons</p>
 
 ###
 
