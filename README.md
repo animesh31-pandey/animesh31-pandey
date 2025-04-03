@@ -52,7 +52,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /> 
   <img width="12" />
-  <img src="	data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…MCaImiSiJkTAqImiRkVETREwJokZEEjJGBBIEgSBIEgSBJ//Z" height="40" alt="canava log"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canava/canava-original.svg	" height="40" />
+   <img width="12" />
+  
     
 </div>
 
