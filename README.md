@@ -6,7 +6,8 @@
 
 ###
 
-<h2 align="left">📬 Contact Me : (+91) 8875320446<br>📧 Email:animeshpandey141213@gmail.com<br>🐦 Twitter: https://x.com/Animesh0pandey  Member: Techbizz club and Metaverse Digital</h2>
+<h2 align="left">📬 Contact Me : (+91) 8875320446<br>📧 Email:animeshpandey141213@gmail.com<br>🐦 Twitter: https://x.com/Animesh0pandey </h2>
+<h2 align="left">  Member: Techbizz club and Metaverse Digital</h2>
 
 ###
 
